@@ -1,0 +1,9 @@
+node_modules
+
+.gitignore
+
+.DS_Store
+
+.idea/*
+
+database
